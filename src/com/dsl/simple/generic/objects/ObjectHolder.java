@@ -1,4 +1,4 @@
-package com.dsl.simple.generic.core;
+package com.dsl.simple.generic.objects;
 
 import java.util.List;
 
@@ -7,12 +7,12 @@ public class ObjectHolder<T> implements GenericObject<T>
     private T object;
     private List<CustomObject> customObjects;
 
-    void setObject(T object)
+    public void setObject(T object)
     {
         this.object = object;
     }
 
-    void setCustomObjects(List<CustomObject> customObjects)
+    public void setCustomObjects(List<CustomObject> customObjects)
     {
         this.customObjects = customObjects;
     }

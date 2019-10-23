@@ -1,4 +1,4 @@
-package com.dsl.simple.generic.core;
+package com.dsl.simple.generic.objects;
 
 public class Bar
 {

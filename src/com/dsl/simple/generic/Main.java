@@ -1,8 +1,8 @@
 package com.dsl.simple.generic;
 
-import com.dsl.simple.generic.core.Bar;
-import com.dsl.simple.generic.core.Foo;
-import com.dsl.simple.generic.core.ObjectHolder;
+import com.dsl.simple.generic.objects.Bar;
+import com.dsl.simple.generic.objects.Foo;
+import com.dsl.simple.generic.objects.ObjectHolder;
 
 import java.util.Objects;
 

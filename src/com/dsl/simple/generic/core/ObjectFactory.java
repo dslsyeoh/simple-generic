@@ -1,5 +1,10 @@
 package com.dsl.simple.generic.core;
 
+import com.dsl.simple.generic.objects.Bar;
+import com.dsl.simple.generic.objects.CustomObject;
+import com.dsl.simple.generic.objects.Foo;
+import com.dsl.simple.generic.objects.ObjectHolder;
+
 import java.util.Collections;
 
 public final class ObjectFactory
